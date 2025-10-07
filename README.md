@@ -42,6 +42,10 @@ Build the project using your preferred IDE or with Maven:
 Open your web browser and navigate to `http://localhost:8080`.
 
 ## ScreenShots
+<img width="1918" height="1079" alt="Screenshot 2025-10-07 120738" src="https://github.com/user-attachments/assets/8fb2713b-07a3-4145-b45c-d742f3e6e4b7" />
+<img width="1914" height="1079" alt="Screenshot 2025-10-07 120719" src="https://github.com/user-attachments/assets/b30d2220-1ca9-44a4-a90e-eb4329f5ba43" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-07 120659" src="https://github.com/user-attachments/assets/b981097b-7402-4970-99c4-042b727dc2fd" />
+
 
 
 ## Contributions
