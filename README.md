@@ -26,7 +26,7 @@ The Expenses Tracker App is a robust financial management solution developed usi
 
 ## Getting Started
 1. **Clone the Repository:**
-`git clone https://github.com/your-username/expenses-tracker.git`
+' git clone https://github.com/Cloud-with-sam/Expense_tracker_webapp
 
 2. **Configure Database:**
 Set up MySQL database and update the application.properties file with your database configuration.
@@ -42,17 +42,10 @@ Build the project using your preferred IDE or with Maven:
 Open your web browser and navigate to `http://localhost:8080`.
 
 ## ScreenShots
-![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
-![Example Image](screenshots/3-3.png) <br>
-![Example Image](screenshots/4-4.png) <br>
-![Example Image](screenshots/5-5.png) <br>
-![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
-![Example Image](screenshots/8.png) <br>
+
 
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License which is created by Samarth.
